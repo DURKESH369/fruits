@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FruityVision & Nutrition Hub",
+  "description": "A comprehensive fruit encyclopedia and identification tool powered by Gemini AI. Identify fruits from images, explore nutritional data with interactive charts, and get AI-powered fruit recipes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
